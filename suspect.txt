@@ -1,0 +1,3 @@
+net6-ip229.linkbg.com.lan
+net6-ip229.linkbg.com
+229.7.246.87.in-addr.arpa
