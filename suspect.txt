@@ -11,3 +11,5 @@ net6-ip229.linkbg.com.lan
 srv-141-98-11-69.serveroffer.net
 srv-141-98-11-69.serveroffer.net.lan
 anidex.moe
+88.40.148.46.in-addr.arpa
+175.40.148.46.in-addr.arpa
