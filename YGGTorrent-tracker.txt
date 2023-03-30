@@ -1,0 +1,6 @@
+# --------------------------------------------
+# YGGTorrent torrent tracker blocklist
+# --------------------------------------------
+p2p.yggtracking.org
+serv.supertracker.org
+connect.joinpeers.org
