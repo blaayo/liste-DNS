@@ -3,3 +3,4 @@
 # --------------------------------------------
 p2p.yggtracking.org
 serv.supertracker.org
+connect.joinpeers.org
